@@ -128,11 +128,11 @@ body{
     justify-content: space-between;
 }
 img{
-    width: 48%;
+    width: 30%;
 
 }
 .container_info{
-    width: 40%;
+    width: 60%;
 }
 .titles{
     font-weight: 300;
@@ -143,11 +143,19 @@ img{
 .title_right{
     text-align: left;
 }
+.GS{
+    font-weight: 700;
+    color: #f44141;
+}
 .text{
     color: white;
     margin-bottom: 30px;
     text-align: justify;
     font-size: 20px;
+}
+.text_right{
+    font-size: 22px;
+    line-height: 30px;
 }
 .stripe{
     background: #f44141;
