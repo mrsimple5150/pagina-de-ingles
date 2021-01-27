@@ -157,6 +157,9 @@ img{
     font-size: 22px;
     line-height: 30px;
 }
+.cta_right{
+    margin-left: 50px;
+}
 .stripe{
     background: #f44141;
     width: 100%;
